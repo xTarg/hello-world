@@ -1,2 +1,6 @@
 # hello-world
-First Github repository
+
+Hi People & others,
+
+I'm xTarg just getting into using github. 
+
